@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /in-world/
+
+Sitemap: https://luminia-lab.github.io/the-cost-of-manifestation/sitemap.xml
