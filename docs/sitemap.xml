@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://luminia-lab.github.io/the-cost-of-manifestation/</loc>
+<lastmod>2026-07-28T16:00:00.000Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://luminia-lab.github.io/the-cost-of-manifestation/luminia/</loc>
+<lastmod>2026-07-28T16:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luminia-lab.github.io/the-cost-of-manifestation/characters/</loc>
+<lastmod>2026-07-28T16:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luminia-lab.github.io/the-cost-of-manifestation/characters/tonha/</loc>
+<lastmod>2026-07-28T16:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luminia-lab.github.io/the-cost-of-manifestation/record/</loc>
+<lastmod>2026-07-28T16:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+</urlset>
