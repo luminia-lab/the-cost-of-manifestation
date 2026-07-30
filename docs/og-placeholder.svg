@@ -1,0 +1,10 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#0B0D0C"/>
+  <circle cx="892" cy="315" r="190" stroke="#30332F"/>
+  <circle cx="892" cy="315" r="112" stroke="#565A53"/>
+  <path d="M670 470L1112 160" stroke="#E5DFCA" stroke-width="2"/>
+  <circle cx="892" cy="315" r="5" fill="#F2EFE6"/>
+  <text x="90" y="105" fill="#918E87" font-family="monospace" font-size="18" letter-spacing="5">PRIVATE REVIEW · OG PLACEHOLDER</text>
+  <text x="90" y="315" fill="#F2EFE6" font-family="serif" font-size="108" letter-spacing="16">透光者</text>
+  <text x="96" y="385" fill="#C9C4B9" font-family="sans-serif" font-size="26" letter-spacing="4">持續發展中的原創文明 IP</text>
+</svg>
